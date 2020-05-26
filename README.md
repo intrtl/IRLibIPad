@@ -9,7 +9,7 @@
 
 2. Add  `use_frameworks!` param to your `Podfile`.
 
-3. Add `IRLib` pod as a dependency to your projects targets:
+3. Add `IRLibIPad` pod as a dependency to your projects targets:
 
 ```
   target 'YourTarget' do
