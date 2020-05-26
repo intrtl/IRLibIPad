@@ -13,7 +13,7 @@
 
 ```
   target 'YourTarget' do
-    pod 'IRLib'
+    pod 'IRLibIPad'
   end
 ```
 5. Skip this step you haven't embedded the framework previously without Cocoapods.
